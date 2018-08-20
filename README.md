@@ -1,2 +1,2 @@
 # PersonalPage
-use Express, angular JS and bootstrap
+use Express, node JS, bower, angular JS and bootstrap
