@@ -1,0 +1,85 @@
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.logo2 {
+    height: 100px;
+    width: 200px;
+}
+
+.logo3 {
+    height: 80px;
+    width: 80px;
+}
+
+body {
+    background-color: rgb(194, 98, 114);
+}
+
+#a20:hover {
+    background-color: yellow;
+}
+
+#a21:hover {
+    background-color: palegreen;
+    border-radius: 15px;
+}
+
+#a23:hover {
+    background-color: blue;
+}
+
+#a24:hover {
+    background-color: green;
+    border-radius: 15px;
+}
+
+.big1 {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.big4 {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 2fr 2fr 1fr;
+    grid-gap: 12px;
+    text-align: center;
+    margin-top: 260px;
+}
+
+.megaboton {
+    border: 2px solid black;
+    border-radius: 90px;
+    background-color: yellow;
+    color: black;
+    padding: 35px;
+    font-size: 20px;
+}
+
+.megaboton:hover {
+    background-color: palegreen;
+    color: red;
+}
+
+#uno {
+    background-color: #62bfed;
+    padding-top: 4px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+#dos {
+    background-color: #8fb8ed;
+    padding-top: 4px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+#tres {
+    background-color: #c2bbf0;
+    padding-top: 4px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}

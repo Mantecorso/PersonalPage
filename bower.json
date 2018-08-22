@@ -1,24 +1,20 @@
 {
-  "name": "personalpage",
-  "description": "personal page whit angularJS",
+  "name": "clase7",
+  "description": "",
   "main": "index.js",
   "authors": [
-    "Luis Jurado Quesada"
+    "Luis <luisjuradoquesada@gmail.com>"
   ],
-  "license": "MIT",
-  "homepage": "https://github.com/Mantecorso/PersonalPage",
+  "license": "ISC",
+  "homepage": "https://www.luisjuradoquesada.com",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "public/components"
+    "tests"
   ],
   "dependencies": {
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.4",
-    "angular": "^1.7.3"
+    "bootstrap": "^4.1.1"
   }
 }
